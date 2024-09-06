@@ -1,7 +1,9 @@
 # Date Picker
 
 Build a reusable date picker component in React that allows users to select recurring dates.
-![image](https://github.com/user-attachments/assets/d2c0a0cb-5b03-40db-a297-25f656d9fab1)
+![Alt text for the image](![image](https://github.com/user-attachments/assets/7c84d03e-f39a-4d2c-9ac9-2ba2390cedcb))
+
+
 ## Getting Started
 
 First, run the development server:
