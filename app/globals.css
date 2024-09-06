@@ -1,0 +1,14 @@
+/* globals.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Add any custom global styles here */
+html,
+body {
+  @apply bg-gray-100 text-gray-900;
+}
+
+a {
+  @apply text-blue-500 hover:text-blue-700;
+}
